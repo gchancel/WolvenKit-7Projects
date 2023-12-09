@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="CiriLigtherEyebrows" Build_date="09/12/2023 19:29:36">
+  <Files>
+    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modCiriLigtherEyebrows">
+      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modCiriLigtherEyebrows\content">
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modCiriLigtherEyebrows\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modCiriLigtherEyebrows\content\metadata.store</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modCiriLigtherEyebrows\content\texture.cache</file>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="GCenvLightingCorrections" Build_date="06/12/2023 18:46:58">
+  <Files>
+    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections">
+      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections\content">
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections\content\metadata.store</file>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>

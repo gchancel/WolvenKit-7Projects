@@ -1,0 +1,20 @@
+{
+    "files": [
+        {
+            "path": "characters\\models\\main_npc\\ciri\\h_01_wa__ciri\\eye__ciri_d01.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "1E836C09-F21BF3DB-C6DA8E92-98F58F4C",
+            "diskSize": 1382
+        },
+        {
+            "path": "characters\\models\\main_npc\\ciri\\h_01_wa__ciri\\eye__ciri_d02.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "19E0DE12-DFFB3A0A-A94F5142-9882D880",
+            "diskSize": 1382
+        }
+    ]
+}

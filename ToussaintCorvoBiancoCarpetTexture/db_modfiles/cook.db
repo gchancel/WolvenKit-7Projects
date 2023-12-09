@@ -1,0 +1,20 @@
+{
+    "files": [
+        {
+            "path": "dlc\\bob\\data\\environment\\decorations\\gameplay\\rich_district\\textures\\prp_rich_carpet.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "A27D50C1-516C772A-A854357B-3459C95B",
+            "diskSize": 1402
+        },
+        {
+            "path": "dlc\\bob\\data\\environment\\decorations\\gameplay\\rich_district\\textures\\prp_rich_carpet_n.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "D99708B2-7B3D846A-A412134D-50B23739",
+            "diskSize": 2102
+        }
+    ]
+}

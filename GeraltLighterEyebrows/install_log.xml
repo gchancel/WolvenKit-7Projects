@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="GeraltLighterEyebrows" Build_date="09/12/2023 19:53:52">
+  <Files>
+    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGeraltLighterEyebrows">
+      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGeraltLighterEyebrows\content">
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGeraltLighterEyebrows\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGeraltLighterEyebrows\content\metadata.store</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGeraltLighterEyebrows\content\texture.cache</file>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>

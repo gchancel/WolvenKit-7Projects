@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="CiriGreenerEyes" Build_date="29/11/2023 00:56:45">
+  <Files>
+    <Directory Path="E:\Games\The Witcher 3 Wild Hunt GOTY\Mods\modCiriGreenerEyes">
+      <Directory Path="E:\Games\The Witcher 3 Wild Hunt GOTY\Mods\modCiriGreenerEyes\content">
+        <file>E:\Games\The Witcher 3 Wild Hunt GOTY\Mods\modCiriGreenerEyes\content\blob0.bundle</file>
+        <file>E:\Games\The Witcher 3 Wild Hunt GOTY\Mods\modCiriGreenerEyes\content\metadata.store</file>
+        <file>E:\Games\The Witcher 3 Wild Hunt GOTY\Mods\modCiriGreenerEyes\content\texture.cache</file>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>

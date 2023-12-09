@@ -1,0 +1,92 @@
+{
+    "files": [
+        {
+            "path": "characters\\models\\geralt\\head\\model\\ep1_mark\\h_01_mg__geralt_d01_mark.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "551F7A49-275F40BC-08575DFB-F3469358",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\geralt\\head\\model\\ep1_mark\\h_01_mg__geralt_d01_mark_tattoo.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "B741CB82-94F48B34-1E48106A-7ECEEA65",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\geralt\\head\\model\\ep1_mark\\h_01_mg__geralt_d02_mark.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "67287414-F877C43D-749292FE-84147401",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\geralt\\head\\model\\ep1_mark\\h_01_mg__geralt_d02_mark_tattoo.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "04449250-F8B0AD77-E26BF76D-BDA36B99",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\geralt\\head\\model\\h_01_mg__geralt_d01.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "63A4E612-D220DEDB-F4DBE641-81DCE7A8",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\geralt\\head\\model\\h_01_mg__geralt_d02.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "80AAF30C-492006D0-AF65DAA4-72B8D744",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\geralt\\head\\model\\h_01_mg__geralt_tattoo_d01.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "B2FA85C6-23862D0F-715FE340-D70FBA89",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\geralt\\head\\model\\h_01_mg__geralt_tattoo_d02.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "DB4FD849-BE69F9AB-A270BECA-C317E9E5",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\geralt\\head\\model\\h_02_mg__geralt_d01.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "35F54F68-6F634FA5-1AB91211-01A683CD",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\geralt\\head\\model\\h_03_mg__geralt_d01.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "F9C54178-AA66308A-C790AAEA-63C4F84D",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\geralt\\head\\model\\h_04_mg__geralt_d01.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "3970117D-D74EB3D5-8D86ED6E-EB5DD924",
+            "diskSize": 1401
+        }
+    ]
+}

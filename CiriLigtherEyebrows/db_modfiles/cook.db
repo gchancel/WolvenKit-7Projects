@@ -1,0 +1,44 @@
+{
+    "files": [
+        {
+            "path": "characters\\models\\main_npc\\ciri\\h_01_wa__ciri\\h_01_wa__ciri_d01.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "0420E058-8270EB36-DF81679D-12218E39",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\main_npc\\ciri\\h_01_wa__ciri\\h_01_wa__ciri_d02.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "84E80C57-A4B92854-D781E71E-F170EB86",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\main_npc\\ciri\\h_01_wa__ciri\\h_01_wa__ciri_d03.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "396A5256-19F026DF-A5EDFEDF-C04E9488",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\main_npc\\ciri\\h_01_wa__ciri\\h_01_wa__ciri_d04.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "CB044CC9-7A0EB64F-7185C8D4-EF26EF03",
+            "diskSize": 1401
+        },
+        {
+            "path": "characters\\models\\main_npc\\ciri_young\\h_01_cwa__ciri_young\\h_01_cwa__ciri_young_d01.xbm",
+            "level": 0,
+            "class": "CBitmapTexture",
+            "seed": 1,
+            "id": "05E302BA-42AADE9A-193ECD62-67C6CABA",
+            "diskSize": 1401
+        }
+    ]
+}
