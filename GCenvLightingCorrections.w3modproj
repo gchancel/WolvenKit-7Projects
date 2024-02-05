@@ -1,6 +1,9 @@
 <?xml version="1.0"?>
 <W3Mod xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <LastOpenedFiles />
+  <LastOpenedFiles>
+    <string>D:\WolvenKit-7Projects\GCenvLightingCorrections\files\Mod\Cooked\environment\definitions\env_skellige\env_skellige_brown.env</string>
+    <string>D:\WolvenKit-7Projects\GCenvLightingCorrections\files\Mod\Cooked\environment\definitions\env_skellige\env_skellige_rain_storm.env</string>
+  </LastOpenedFiles>
   <Name>GCenvLightingCorrections</Name>
   <Version>0.62</Version>
 </W3Mod>

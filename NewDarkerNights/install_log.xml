@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<InstalLog Project="NewDarkerNights" Build_date="06/12/2023 17:51:08">
+<InstalLog Project="NewDarkerNights" Build_date="10/01/2024 16:30:06">
   <Files>
-    <Directory Path="O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights">
-      <Directory Path="O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content">
-        <file>O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\blob0.bundle</file>
-        <file>O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\metadata.store</file>
-        <Directory Path="O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts">
-          <Directory Path="O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game">
-            <file>O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\environmentManager.ws</file>
-            <file>O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\r4Game.ws</file>
-            <Directory Path="O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\gui">
-              <Directory Path="O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\gui\main_menu">
-                <file>O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\gui\main_menu\ingameMenu.ws</file>
+    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights">
+      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content">
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\metadata.store</file>
+        <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts">
+          <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game">
+            <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\environmentManager.ws</file>
+            <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\r4Game.ws</file>
+            <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\gui">
+              <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\gui\main_menu">
+                <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\gui\main_menu\ingameMenu.ws</file>
               </Directory>
             </Directory>
-            <Directory Path="O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\player">
-              <file>O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\player\r4Player.ws</file>
-              <Directory Path="O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\player\states">
-                <file>O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\player\states\unconscious.ws</file>
+            <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\player">
+              <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\player\r4Player.ws</file>
+              <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\player\states">
+                <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\player\states\unconscious.ws</file>
               </Directory>
             </Directory>
           </Directory>
-          <Directory Path="O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\local">
-            <file>O:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\local\world_env_modif.ws</file>
+          <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\local">
+            <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\local\world_env_modif.ws</file>
           </Directory>
         </Directory>
       </Directory>
