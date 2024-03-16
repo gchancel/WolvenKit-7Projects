@@ -1,10 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<InstalLog Project="NewDarkerNights" Build_date="10/01/2024 16:30:06">
+<InstalLog Project="NewDarkerNights" Build_date="15/03/2024 15:28:19">
   <Files>
     <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights">
       <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content">
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\ar.w3strings</file>
         <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\br.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\cn.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\cz.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\de.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\en.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\es.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\esMX.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\fr.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\hu.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\it.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\jp.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\kr.w3strings</file>
         <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\metadata.store</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\pl.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\ru.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\tr.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\zh.w3strings</file>
         <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts">
           <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game">
             <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\game\environmentManager.ws</file>
@@ -25,6 +42,12 @@
             <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modNewDarkerNights\content\scripts\local\world_env_modif.ws</file>
           </Directory>
         </Directory>
+      </Directory>
+    </Directory>
+    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcnewdn">
+      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcnewdn\content">
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcnewdn\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcnewdn\content\metadata.store</file>
       </Directory>
     </Directory>
   </Files>

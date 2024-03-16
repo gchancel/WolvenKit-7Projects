@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<W3Mod xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LastOpenedFiles>
+    <string>D:\WolvenKit-7Projects\UltraSmoothGUI\files\Mod\Cooked\gameplay\gui_new\swf\mainmenu\panel_mainmenu_gamma.redswf</string>
+    <string>D:\WolvenKit-7Projects\UltraSmoothGUI\files\Mod\Cooked\gameplay\gui_new\swf\noticeboard\panel_noticeboard.redswf</string>
+  </LastOpenedFiles>
+  <Name>UltraSmoothGUI</Name>
+  <Version>0.62</Version>
+</W3Mod>

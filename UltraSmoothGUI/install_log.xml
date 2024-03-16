@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="UltraSmoothGUI" Build_date="28/02/2024 20:30:18">
+  <Files>
+    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modUltraSmoothGUI">
+      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modUltraSmoothGUI\content">
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modUltraSmoothGUI\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modUltraSmoothGUI\content\metadata.store</file>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>

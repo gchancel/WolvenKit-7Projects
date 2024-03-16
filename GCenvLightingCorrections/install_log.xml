@@ -1,10 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<InstalLog Project="GCenvLightingCorrections" Build_date="07/02/2024 21:37:09">
+<InstalLog Project="GCenvLightingCorrections" Build_date="15/03/2024 15:28:56">
   <Files>
     <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections">
       <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections\content">
         <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections\content\en.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections\content\fr.w3strings</file>
         <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections\content\metadata.store</file>
+        <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections\content\scripts">
+          <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections\content\scripts\game">
+            <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections\content\scripts\game\player">
+              <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modGCenvLightingCorrections\content\scripts\game\player\r4Player.ws</file>
+            </Directory>
+          </Directory>
+        </Directory>
+      </Directory>
+    </Directory>
+    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcjl102envs">
+      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcjl102envs\content">
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcjl102envs\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcjl102envs\content\metadata.store</file>
       </Directory>
     </Directory>
   </Files>

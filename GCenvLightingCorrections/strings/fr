@@ -1,0 +1,25 @@
+;meta[language=fr]
+; id      |key(hex)|key(str)| text
+2116006000||panel_Mods|Mods
+2116006001||panel_jl102Config|JL102LM
+2116006002||preset_value_jl102_defaultSSAO|SSAO
+2116006003||option_jl102_envIntEn|Environmement intérieurs personnalisés
+2116006004||option_jl102_shadow_filter|Type de filtre du Shadow Mapping
+2116006005||preset_value_jl102_smooth|Flou
+2116006006||preset_value_jl102_medium|Intermédiaire
+2116006007||preset_value_jl102_sharp|Net
+2116006008||preset_Mods_jl102Config|Mod d'éclairage de Jojolapin102
+2116006009||option_jl102_ssaoIntMul|Multiplicateur SSAO : Intérieur
+2116006010||preset_value_jl102_defaultHBAO|HBAO
+2116006011||preset_value_2048|2048
+2116006012||preset_value_3072|3072
+2116006013||preset_value_4096|4096
+2116006014||preset_value_5120|5120
+2116006015||preset_value_6144|6144
+2116006016||preset_value_7680|7680
+2116006017||preset_value_8192|8192
+2116006018||option_cascade_shadowmap_size|Résolution des ombres projetées
+2116006019||preset_value_jl102_default|Défaut
+2116006020||preset_value_jl102_smooth_default|FLOU
+2116006021||preset_value_jl102_medium_default|MÉDIUM
+2116006022||preset_value_jl102_sharp_default|NET

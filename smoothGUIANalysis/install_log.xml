@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="smoothGUIANalysis" Build_date="17/02/2024 19:01:07">
+  <Files>
+    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modsmoothGUIANalysis">
+      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modsmoothGUIANalysis\content">
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modsmoothGUIANalysis\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\Mods\modsmoothGUIANalysis\content\metadata.store</file>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>

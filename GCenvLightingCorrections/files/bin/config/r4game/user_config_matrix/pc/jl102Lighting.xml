@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+    <Group id="jl102Config" displayName="Mods.jl102Config">
+    	<VisibleVars>
+			<!-- Interior Screen Space Ambient Occlusion Multiplier -->
+			<Var overrideGroup="PostProcess" id="AOInteriorMultiplier" displayName="jl102_ssaoIntMul" displayType="SLIDER;0;2;20" tags="refreshEngine"/>
+		</VisibleVars>
+	</Group>
+</UserConfig>
